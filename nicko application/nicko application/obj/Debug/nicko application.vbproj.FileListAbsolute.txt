@@ -1,0 +1,14 @@
+C:\Users\marti433\AppData\Local\Temporary Projects\nicko application\bin\Debug\nicko application.exe.config
+C:\Users\marti433\AppData\Local\Temporary Projects\nicko application\obj\Debug\nicko_application.Form1.resources
+C:\Users\marti433\AppData\Local\Temporary Projects\nicko application\obj\Debug\nicko_application.Resources.resources
+C:\Users\marti433\AppData\Local\Temporary Projects\nicko application\obj\Debug\nicko application.vbproj.GenerateResource.Cache
+C:\Users\marti433\Desktop\nicko application\nicko application\bin\Debug\nicko application.exe.config
+C:\Users\marti433\Desktop\nicko application\nicko application\obj\Debug\nicko_application.Form1.resources
+C:\Users\marti433\Desktop\nicko application\nicko application\obj\Debug\nicko_application.Resources.resources
+C:\Users\marti433\Desktop\nicko application\nicko application\obj\Debug\nicko application.vbproj.GenerateResource.Cache
+C:\Users\marti433\Desktop\nicko application\nicko application\bin\Debug\nicko application.exe
+C:\Users\marti433\Desktop\nicko application\nicko application\bin\Debug\nicko application.pdb
+C:\Users\marti433\Desktop\nicko application\nicko application\bin\Debug\nicko application.xml
+C:\Users\marti433\Desktop\nicko application\nicko application\obj\Debug\nicko application.exe
+C:\Users\marti433\Desktop\nicko application\nicko application\obj\Debug\nicko application.xml
+C:\Users\marti433\Desktop\nicko application\nicko application\obj\Debug\nicko application.pdb
